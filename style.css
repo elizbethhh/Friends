@@ -1,0 +1,61 @@
+<link rel="stylesheet" href="normalize.css">
+.quote{
+	background-image: url('images/background.png');
+	padding:5rem;
+	color:  #EFDAC6;
+	font-size:2rem;
+	max-width: 90%;
+	text-align: center;
+	font-family:Arial;
+	text-shadow: 2px 2px black;
+	align-content: center;
+	background-repeat:repeat-x;
+	background-position:right;
+	margin:2rem;
+}
+.first-page{
+	background:lavender;
+	align-content:center;
+}
+.second-page{
+	background:#FECFE3;
+}
+.third-page{
+	background:#EFDAC6;
+}
+.quote{
+	background-image: url('images/background.png');
+	padding:5rem;
+	color:  #EFDAC6;
+	font-size:2rem;
+	max-width: 90%;
+	text-align: center;
+	font-family:Arial;
+	text-shadow: 2px 2px black;
+	align-content: center;
+	background-repeat:repeat-x;
+	background-position:right;
+	margin:2rem;
+}
+h1 {
+	text-align: center;
+	color:#542603;
+	text-shadow: 2px 1.5px #C99E7E;
+}
+.nav{
+	text-align: center;
+	color: #552805;
+	margin-top: 10px;
+}
+.center{
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 90%;
+}
+p {
+	color:#552805;
+	text-shadow: .5px .5px #C99E7E;
+	border-style: 1px 1px dotted #552805;
+	margin: 2rem;
+}
